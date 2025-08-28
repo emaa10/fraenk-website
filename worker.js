@@ -181,14 +181,15 @@ Sitemap: ${url.origin}/sitemap.xml`, {
     "text": "🎉 Begrenzte Aktion: Mit Gutscheincode HELBE3 erhältst du 5 GB extra im Telekom Netz. 20 GB für nur 10€ monatlich!",
     "datePosted": "2025-08-27T00:00:00+02:00",
     "expires": "2025-09-14T23:59:59+02:00",
-    "category": "https://www.wikidata.org/wiki/Q47756",
+    "validFrom": "2025-08-27",
+    "validThrough": "2025-09-14",
     "spatialCoverage": {
       "@type": "Country",
       "name": "Deutschland"
     },
     "audience": {
       "@type": "Audience",
-      "audienceType": "Mobilfunknutzer"
+      "audienceType": "mobile users"
     }
   }
   </script>
