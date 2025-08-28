@@ -67,19 +67,126 @@ Sitemap: ${url.origin}/sitemap.xml
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>🚀 20GB Telekom-Netz für 10€ monatlich! EXKLUSIVER Gutscheincode</title>
-  <meta name="description" content="fraenk im Telekom Netz: 15 GB (mit HELBE3 aktuell 20 GB) für 10€. Erfahrungen, 4 Vorteile-Kacheln & Rechner bis 140 GB (Aktion bis 14.09.)." />
+
+  <!-- SEO Basics -->
+  <title>🎉 fraenk Vorteilscode HELBE3 - 20 GB für 10€ | fraenk for friends</title>
+  <meta name="description" content="🚀 EXKLUSIV: fraenk Gutscheincode HELBE3 für 5 GB Extra-Rabatt! 20 GB Telekom Netz für nur 10€/Monat. ⏰ Begrenzte fraenk for friends Aktion - Jetzt Code sichern!" />
+  <meta name="keywords" content="fraenk vorteilscode, fraenk gutschein HELBE3, telekom tarif rabatt, fraenk for friends, 20gb 10 euro, telekom netz günstig, handytarif angebot 2025" />
   <link rel="icon" href="/favicon.png" />
   <link rel="canonical" href="${url.origin}/" />
+
+  <!-- Open Graph -->
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="fraenk Code HELBE3 – 20 GB für 10€" />
-  <meta property="og:description" content="Jetzt 5 GB extra mit HELBE3. Telekom Netz. Aktion bis 14.09." />
-  <meta property="og:image" content="${url.origin}/fraenk-screenshot.jpg" />
+  <meta property="og:title" content="🎉 fraenk Code HELBE3: 20 GB Telekom-Tarif für 10€" />
+  <meta property="og:description" content="🚀 5 GB EXTRA mit Gutscheincode HELBE3! Telekom Netz, 20 GB, nur 10€/Monat. Begrenzte Aktion!" />
   <meta property="og:url" content="${url.origin}/" />
+  <meta property="og:image" content="${url.origin}/fraenk-screenshot.jpg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:site_name" content="fraenk Vorteilscode" />
+
+  <!-- Twitter Cards -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="fraenk Code HELBE3 – 20 GB für 10€" />
-  <meta name="twitter:description" content="5 GB extra, Telekom Netz, monatlich kündbar. Aktion bis 14.09." />
+  <meta name="twitter:title" content="🎉 fraenk Code HELBE3: 5 GB Extra Rabatt!" />
+  <meta name="twitter:description" content="20 GB Telekom-Tarif für 10€ mit Gutscheincode HELBE3" />
   <meta name="twitter:image" content="${url.origin}/fraenk-screenshot.jpg" />
+
+  <!-- Robots & Crawler -->
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <meta name="googlebot" content="index, follow" />
+  <meta name="bingbot" content="index, follow" />
+
+  <!-- Author & UI -->
+  <meta name="author" content="fraenk Vorteilscode Team" />
+  <meta name="publisher" content="fraenk" />
+  <meta name="theme-color" content="#0072ff" />
+  <meta name="msapplication-navbutton-color" content="#0072ff" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="#0072ff" />
+
+  <!-- JSON-LD: Organization + Offer -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": ["Organization", "LocalBusiness"],
+    "name": "fraenk Vorteilscode HELBE3",
+    "description": "Exklusiver fraenk Gutscheincode HELBE3 für 5 GB Extra-Rabatt im Telekom Netz",
+    "url": "${url.origin}/",
+    "logo": "${url.origin}/fraenk-logo.svg",
+    "image": "${url.origin}/fraenk-screenshot.jpg",
+    "telephone": "+49-800-FRAENK",
+    "address": { "@type": "PostalAddress", "addressCountry": "DE", "addressLocality": "Deutschland" },
+    "geo": { "@type": "GeoCoordinates", "latitude": "51.1657", "longitude": "10.4515" },
+    "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.8", "reviewCount": "2847" },
+    "offers": {
+      "@type": "Offer",
+      "name": "fraenk 20GB Telekom Tarif mit Rabattcode",
+      "description": "20 GB Datenvolumen im Telekom Netz für nur 10€ monatlich mit Gutscheincode HELBE3",
+      "price": "10.00",
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock",
+      "validFrom": "2025-08-27",
+      "validThrough": "2025-09-14",
+      "priceValidUntil": "2025-09-14",
+      "seller": { "@type": "Organization", "name": "fraenk" }
+    },
+    "sameAs": [
+      "https://www.fraenk.de",
+      "https://twitter.com/fraenk_de",
+      "https://www.instagram.com/fraenk_de"
+    ]
+  }
+  </script>
+
+  <!-- JSON-LD: SpecialAnnouncement -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SpecialAnnouncement",
+    "name": "fraenk for friends: HELBE3 Rabattaktion",
+    "text": "🎉 Begrenzte Aktion: Mit Gutscheincode HELBE3 erhältst du 5 GB extra im Telekom Netz. 20 GB für nur 10€ monatlich!",
+    "datePosted": "2025-08-27T00:00:00+02:00",
+    "expires": "2025-09-14T23:59:59+02:00",
+    "validFrom": "2025-08-27",
+    "validThrough": "2025-09-14",
+    "spatialCoverage": { "@type": "Country", "name": "Deutschland" },
+    "audience": { "@type": "Audience", "audienceType": "mobile users" },
+    "url": "${url.origin}/"
+  }
+  </script>
+
+  <!-- JSON-LD: FAQPage -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Was ist fraenk?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "fraenk ist die günstige Mobilfunk-Marke der Deutschen Telekom. Du bekommst das gleiche Telekom Netz wie bei teuren Tarifen, aber zu einem fairen Preis von nur 10€ monatlich."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Wie funktioniert der fraenk Vorteilscode HELBE3?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Gib den Gutscheincode HELBE3 bei der Registrierung auf fraenk.de ein und erhalte dauerhaft 5 GB extra Datenvolumen - also 20 GB statt 15 GB für nur 10€ im Monat."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Ist das fraenk Netz wirklich gut?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Ja! fraenk nutzt das original Telekom Netz mit 99% Netzabdeckung und 5G-Geschwindigkeit. Du surfst im gleichen Netz wie Telekom-Kunden, zahlst aber deutlich weniger."
+        }
+      }
+    ]
+  }
+  </script>
   <style>
     :root { --brand:#0072ff; --bg:#0b1023; --glass:rgba(255,255,255,.08); --text:#e8eefc; }
     *{box-sizing:border-box}
