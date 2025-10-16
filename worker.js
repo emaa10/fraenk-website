@@ -69,16 +69,16 @@ Sitemap: ${url.origin}/sitemap.xml
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <!-- SEO Basics -->
-  <title>🎉 fraenk Vorteilscode HELBE - 19 GB für 10€ | fraenk for friends</title>
-  <meta name="description" content="🚀 EXKLUSIV: fraenk Gutscheincode HELB111 für 4 GB Extra! 19 GB Telekom Netz für nur 10€/Monat. ⏰ fraenk for friends Aktion - Jetzt Code sichern!" />
-  <meta name="keywords" content="fraenk vorteilscode, fraenk gutschein HELB111, telekom tarif rabatt, fraenk for friends, 19gb 10 euro, telekom netz günstig, handytarif angebot 2025" />
+  <title>🎉 fraenk Vorteilscode MARB3961 - 24 GB für 10€ | fraenk for friends</title>
+  <meta name="description" content="🚀 EXKLUSIV: fraenk Gutscheincode MARB3961 für 4 GB Extra! 24 GB Telekom Netz für nur 10€/Monat. ⏰ fraenk for friends Aktion - Jetzt Code sichern!" />
+  <meta name="keywords" content="fraenk vorteilscode, fraenk gutschein MARB3961, telekom tarif rabatt, fraenk for friends, 24gb 10 euro, telekom netz günstig, handytarif angebot 2025" />
   <link rel="icon" href="/favicon.png" />
   <link rel="canonical" href="${url.origin}/" />
 
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="🎉 fraenk Code HELB111: 19 GB Telekom-Tarif für 10€" />
-  <meta property="og:description" content="🚀 4 GB EXTRA mit Gutscheincode HELB111! Telekom Netz, 19 GB, nur 10€/Monat. Aktion!" />
+  <meta property="og:title" content="🎉 fraenk Code MARB3961: 24 GB Telekom-Tarif für 10€" />
+  <meta property="og:description" content="🚀 4 GB EXTRA mit Gutscheincode MARB3961! Telekom Netz, 24 GB, nur 10€/Monat. Aktion!" />
   <meta property="og:url" content="${url.origin}/" />
   <meta property="og:image" content="${url.origin}/fraenk-screenshot.jpg" />
   <meta property="og:image:width" content="1200" />
@@ -87,8 +87,8 @@ Sitemap: ${url.origin}/sitemap.xml
 
   <!-- Twitter Cards -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="🎉 fraenk Code HELB111: 4 GB Extra!" />
-  <meta name="twitter:description" content="19 GB Telekom-Tarif für 10€ mit Gutscheincode HELB111" />
+  <meta name="twitter:title" content="🎉 fraenk Code MARB3961: 4 GB Extra!" />
+  <meta name="twitter:description" content="24 GB Telekom-Tarif für 10€ mit Gutscheincode MARB3961" />
   <meta name="twitter:image" content="${url.origin}/fraenk-screenshot.jpg" />
 
   <!-- Robots & Crawler -->
@@ -108,8 +108,8 @@ Sitemap: ${url.origin}/sitemap.xml
   {
     "@context": "https://schema.org",
     "@type": ["Organization", "LocalBusiness"],
-    "name": "fraenk Vorteilscode HELB111",
-    "description": "Exklusiver fraenk Gutscheincode HELB111 für 4 GB Extra im Telekom Netz",
+    "name": "fraenk Vorteilscode MARB3961",
+    "description": "Exklusiver fraenk Gutscheincode MARB3961 für 4 GB Extra im Telekom Netz",
     "url": "${url.origin}/",
     "logo": "${url.origin}/fraenk-logo.svg",
     "image": "${url.origin}/fraenk-screenshot.jpg",
@@ -119,8 +119,8 @@ Sitemap: ${url.origin}/sitemap.xml
     "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.8", "reviewCount": "2847" },
     "offers": {
       "@type": "Offer",
-      "name": "fraenk 19GB Telekom Tarif mit Rabattcode",
-      "description": "19 GB Datenvolumen im Telekom Netz für nur 10€ monatlich mit Gutscheincode HELB111",
+      "name": "fraenk 24GB Telekom Tarif mit Rabattcode",
+      "description": "24 GB Datenvolumen im Telekom Netz für nur 10€ monatlich mit Gutscheincode MARB3961",
       "price": "10.00",
       "priceCurrency": "EUR",
       "availability": "https://schema.org/InStock",
@@ -142,8 +142,8 @@ Sitemap: ${url.origin}/sitemap.xml
   {
     "@context": "https://schema.org",
     "@type": "SpecialAnnouncement",
-    "name": "fraenk for friends: HELB111 Rabattaktion",
-    "text": "🎉 Aktion: Mit Gutscheincode HELB111 erhältst du 4 GB extra im Telekom Netz. 19 GB für nur 10€ monatlich!",
+    "name": "fraenk for friends: MARB3961 Rabattaktion",
+    "text": "🎉 Aktion: Mit Gutscheincode MARB3961 erhältst du 4 GB extra im Telekom Netz. 24 GB für nur 10€ monatlich!",
     "datePosted": "2025-08-27T00:00:00+02:00",
     "expires": "2025-09-14T23:59:59+02:00",
     "validFrom": "2025-08-27",
@@ -170,10 +170,10 @@ Sitemap: ${url.origin}/sitemap.xml
       },
       {
         "@type": "Question",
-        "name": "Wie funktioniert der fraenk Vorteilscode HELB111?",
+        "name": "Wie funktioniert der fraenk Vorteilscode MARB3961?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Gib den Gutscheincode HELB111 bei der Registrierung auf fraenk.de ein und erhalte dauerhaft 4 GB extra Datenvolumen - also 19 GB statt 15 GB für nur 10€ im Monat."
+          "text": "Gib den Gutscheincode MARB3961 bei der Registrierung auf fraenk.de ein und erhalte dauerhaft 4 GB extra Datenvolumen - also 24 GB statt 20 GB für nur 10€ im Monat."
         }
       },
       {
@@ -256,7 +256,7 @@ Sitemap: ${url.origin}/sitemap.xml
     // Copy Code Button
     function copyCode(e){
       e.preventDefault();
-      navigator.clipboard.writeText('HELB111').then(()=>{
+      navigator.clipboard.writeText('MARB3961').then(()=>{
         e.target.classList.add('copied');
         e.target.textContent = 'Kopiert!';
         setTimeout(()=>{e.target.classList.remove('copied'); e.target.textContent='📋 Code kopieren';},2000);
@@ -279,7 +279,7 @@ Sitemap: ${url.origin}/sitemap.xml
 
       function calc(){
         const price = Number([...priceNodes].find(r=>r.checked).value); // 10/15
-        const baseGb = price===10 ? 15 : 40;
+        const baseGb = price===10 ? 20 : 45;
         const codeUsed = codeSel.value === 'yes';
         const codeBonus = codeUsed ? 4 : 0;
         const n = Number(friends.value);
@@ -303,12 +303,12 @@ Sitemap: ${url.origin}/sitemap.xml
     <div class="wrap">
       <div class="brand">
         <img src="/fraenk-logo.svg" alt="fraenk Logo"/>
-        <strong>🚀 19GB Telekom-Netz für 10€ monatlich! EXKLUSIVER Gutscheincode</strong>
+        <strong>🚀 24GB Telekom-Netz für 10€ monatlich! EXKLUSIVER Gutscheincode</strong>
       </div>
       <nav>
         <button class="tab active" data-tab="home" onclick="showTab('home')">Home</button>
         <button class="tab" data-tab="erfahrungen" onclick="showTab('erfahrungen')">Meine Erfahrungen</button>
-        <button class="tab" data-tab="rechner" onclick="showTab('rechner')">Bis zu 99GB möglich</button>
+        <button class="tab" data-tab="rechner" onclick="showTab('rechner')">Bis zu 104GB möglich</button>
       </nav>
     </div>
   </header>
@@ -318,7 +318,7 @@ Sitemap: ${url.origin}/sitemap.xml
     <section class="hero" id="tab-home">
       <div class="card">
         <div>Jetzt 4 GB extra</div>
-        <div class="code" aria-label="Vorteilscode">HELB111</div>
+        <div class="code" aria-label="Vorteilscode">MARB3961</div>
         <div>
           <a class="btn" href="#" onclick="copyCode(event)">📋 Code kopieren</a>
           <a class="btn" href="https://www.fraenk.de" target="_blank" rel="noopener">🚀 Zu fraenk</a>
@@ -336,8 +336,8 @@ Sitemap: ${url.origin}/sitemap.xml
             <p>Deutschlands bestes Mobilfunknetz mit 99% Netzabdeckung und 5G-Speed</p>
           </div>
           <div class="benefit" role="listitem">
-            <h3>19 GB für 10€</h3>
-            <p>Mit Code HELB111 bekommst du dauerhaft 4 GB extra zu deinen 15 GB</p>
+            <h3>24 GB für 10€</h3>
+            <p>Mit Code MARB3961 bekommst du dauerhaft 4 GB extra zu deinen 20 GB</p>
           </div>
           <div class="benefit" role="listitem">
             <h3>100% Digital</h3>
@@ -352,10 +352,10 @@ Sitemap: ${url.origin}/sitemap.xml
         <div style="background: linear-gradient(135deg, #e8f4fd, #f8f9ff); padding: 16px; border-radius: 12px; border-left: 5px solid #0072ff; color:#111">
           <h3 style="color:#0b1023">🚀 So holst du dir den fraenk Rabatt:</h3>
           <ol>
-            <li><strong>fraenk Gutscheincode HELB111 kopieren</strong> (Button oben)</li>
+            <li><strong>fraenk Gutscheincode MARB3961 kopieren</strong> (Button oben)</li>
             <li><strong>Bei fraenk registrieren</strong> auf fraenk.de</li>
             <li><strong>Vorteilscode beim Checkout eingeben</strong> und Extra-GB sichern</li>
-            <li><strong>Fertig!</strong> 19 GB Telekom Tarif für nur 10€ (während der Aktion)</li>
+            <li><strong>Fertig!</strong> 24 GB Telekom Tarif für nur 10€ (während der Aktion)</li>
           </ol>
         </div>
 
@@ -371,8 +371,8 @@ Sitemap: ${url.origin}/sitemap.xml
           <h3>Was ist fraenk?</h3>
           <p>fraenk ist die günstige Mobilfunk-Marke der Deutschen Telekom. Du bekommst das gleiche Telekom Netz wie bei teuren Tarifen, aber zu einem fairen Preis von nur 10€ monatlich.</p>
 
-          <h3>Wie funktioniert der fraenk Vorteilscode HELB111?</h3>
-          <p>Gib den Gutscheincode HELB111 bei der Registrierung auf fraenk.de ein und erhalte dauerhaft 4 GB extra Datenvolumen - also 19 GB statt 15 GB für nur 10€ im Monat.</p>
+          <h3>Wie funktioniert der fraenk Vorteilscode MARB3961?</h3>
+          <p>Gib den Gutscheincode MARB3961 bei der Registrierung auf fraenk.de ein und erhalte dauerhaft 4 GB extra Datenvolumen - also 24 GB statt 20 GB für nur 10€ im Monat.</p>
 
           <h3>Ist das fraenk Netz wirklich gut?</h3>
           <p>Ja! fraenk nutzt das original Telekom Netz mit 99% Netzabdeckung und 5G-Geschwindigkeit. Du surfst im gleichen Netz wie Telekom-Kunden, zahlst aber deutlich weniger.</p>
@@ -401,9 +401,9 @@ Sitemap: ${url.origin}/sitemap.xml
             
             <h3>Preis-Leistung im Fokus</h3>
             
-            <p>Fraenk bietet für <strong>10 € im Monat 15 GB im Telekom Netz</strong>. Wer mehr möchte, kann für <strong>5 € Aufpreis dauerhaft 25 GB extra</strong> dazubuchen. Das ist schon an sich ein starkes Preis-Leistungs-Verhältnis, wenn man bedenkt, dass man das <strong>beste Netz in Deutschland</strong> nutzt. Andere Discounter im Telekom-Netz liegen meist deutlich teurer oder bieten weniger Daten.</p>
+            <p>Fraenk bietet für <strong>10 € im Monat 20 GB im Telekom Netz</strong>. Wer mehr möchte, kann für <strong>5 € Aufpreis dauerhaft 25 GB extra</strong> dazubuchen. Das ist schon an sich ein starkes Preis-Leistungs-Verhältnis, wenn man bedenkt, dass man das <strong>beste Netz in Deutschland</strong> nutzt. Andere Discounter im Telekom-Netz liegen meist deutlich teurer oder bieten weniger Daten.</p>
             
-            <p>Zusätzlich gibt es noch die Möglichkeit, mit einem <strong>Fraenk for Friends Code</strong> dauerhaft <strong>4 GB mehr</strong> pro Monat zu bekommen. Du kannst gerne meinen Code HELB111 verwenden. Genau das habe ich gemacht – und dadurch surfe ich jetzt mit noch mehr Datenvolumen, ohne einen Cent extra zu zahlen.</p>
+            <p>Zusätzlich gibt es noch die Möglichkeit, mit einem <strong>Fraenk for Friends Code</strong> dauerhaft <strong>4 GB mehr</strong> pro Monat zu bekommen. Du kannst gerne meinen Code MARB3961 verwenden. Genau das habe ich gemacht – und dadurch surfe ich jetzt mit noch mehr Datenvolumen, ohne einen Cent extra zu zahlen.</p>
             
             <h3>Netzqualität im Alltag</h3>
             
@@ -439,19 +439,19 @@ Sitemap: ${url.origin}/sitemap.xml
       <div class="grid">
         <div>
           <div class="card" aria-labelledby="calc-h">
-            <h2 id="calc-h">Bis zu 99 GB – Rechner</h2>
+            <h2 id="calc-h">Bis zu 104 GB – Rechner</h2>
             <div class="small">Aktion: Freunde bringen <strong>4 GB</strong> Datenvolumen extra!</div>
 
             <div class="step">
               <label><strong>1. Grundpreis wählen</strong></label><br/>
-              <label><input type="radio" name="price" value="10" checked /> 10 € (Basis 15 GB)</label>
+              <label><input type="radio" name="price" value="10" checked /> 10 € (Basis 20 GB)</label>
               <label style="margin-left:10px"><input type="radio" name="price" value="15" /> 15 € (mit Option, Basis 40 GB)</label>
             </div>
 
             <div class="step">
-              <label for="code"><strong>2. Code HELB111 verwenden?</strong></label><br/>
+              <label for="code"><strong>2. Code MARB3961 verwenden?</strong></label><br/>
               <select id="code">
-                <option value="yes">Ja, HELB111 für +4GB</option>
+                <option value="yes">Ja, MARB3961 für +4GB</option>
                 <option value="no">Nein (kein Bonus)</option>
               </select>
             </div>
@@ -477,17 +477,17 @@ Sitemap: ${url.origin}/sitemap.xml
           </div>
         </div>
         <article class="content">
-            <h2>Bis zu 99GB möglich</h2>
+            <h2>Bis zu 104GB möglich</h2>
 
-            <h3>Bis zu 99 GB möglich – fraenk for friends macht’s möglich</h3>
+            <h3>Bis zu 104 GB möglich – fraenk for friends macht’s möglich</h3>
             
-            <p>Viele kennen das Problem: Mobilfunktarife sind oft unübersichtlich, voll mit Fußnoten oder kleinen Sternchen, die später teuer werden. Genau hier setzt <strong>fraenk</strong> an – ein moderner, transparenter und komplett digitaler Tarif im Telekom-Netz, der einfach funktioniert. Ohne versteckte Kosten, ohne komplizierte Verträge, monatlich kündbar und mit fairen Preisen. Besonders spannend ist dabei das <strong>fraenk for friends</strong> Prinzip, mit dem man seinen eigenen Tarif schrittweise verbessern kann – bis hin zu <strong>99 GB Datenvolumen</strong> pro Monat.</p>
+            <p>Viele kennen das Problem: Mobilfunktarife sind oft unübersichtlich, voll mit Fußnoten oder kleinen Sternchen, die später teuer werden. Genau hier setzt <strong>fraenk</strong> an – ein moderner, transparenter und komplett digitaler Tarif im Telekom-Netz, der einfach funktioniert. Ohne versteckte Kosten, ohne komplizierte Verträge, monatlich kündbar und mit fairen Preisen. Besonders spannend ist dabei das <strong>fraenk for friends</strong> Prinzip, mit dem man seinen eigenen Tarif schrittweise verbessern kann – bis hin zu <strong>104 GB Datenvolumen</strong> pro Monat.</p>
             
             <h4>Das Prinzip: Freunde werben, dauerhaft profitieren</h4>
             
             <p>Bei fraenk gibt es ein einzigartiges Belohnungssystem: Jeder Kunde hat einen persönlichen Einladungscode, den er an Freunde, Familie oder Bekannte weitergeben kann. Nutzt jemand diesen Code beim Vertragsabschluss, profitieren beide Seiten. Der Geworbene erhält dauerhaft <strong>4 GB Datenvolumen gratis</strong>, und auch der Werber bekommt die 4 GB dauerhaft on top zu seinem eigenen Tarif.</p>
             
-            <p>Der Clou daran: Das Ganze lässt sich <strong>bis zu 20 Mal stapeln</strong>. Das heißt, wer 20 Personen erfolgreich wirbt, kann insgesamt <strong>20 × 4 GB = 80 GB</strong> zusätzlich bekommen. Kombiniert mit dem normalen Tarif, der aktuell schon <strong>15 GB</strong> enthält (oder <strong>25 GB</strong>, falls man die Zusatzoption gebucht hat), landet man so bei bis zu <strong>95 GB pro Monat</strong> – und das für denselben Preis, den man ohnehin zahlt: 10 € im Monat oder 15 € mit der Option.</p>
+            <p>Der Clou daran: Das Ganze lässt sich <strong>bis zu 20 Mal stapeln</strong>. Das heißt, wer 20 Personen erfolgreich wirbt, kann insgesamt <strong>20 × 4 GB = 80 GB</strong> zusätzlich bekommen. Kombiniert mit dem normalen Tarif, der aktuell schon <strong>20 GB</strong> enthält (oder <strong>25 GB</strong>, falls man die Zusatzoption gebucht hat), landet man so bei bis zu <strong>95 GB pro Monat</strong> – und das für denselben Preis, den man ohnehin zahlt: 10 € im Monat oder 15 € mit der Option.</p>
             
             <h4>Warum das so interessant ist</h4>
             
@@ -502,7 +502,7 @@ Sitemap: ${url.origin}/sitemap.xml
             
             <p>Das Spannende bei fraenk ist, dass es kein kompliziertes Punktesystem, keine zeitlich begrenzten Aktionen oder Boni gibt, die irgendwann wieder verschwinden. Alles, was man einmal an Datenvolumen durch fraenk for friends gesammelt hat, <strong>bleibt dauerhaft aktiv</strong> – solange der Tarif läuft. Wer also heute einen Freund wirbt, hat die zusätzlichen 4 GB auch in einem Jahr oder in zehn Jahren noch, solange beide den Tarif nutzen.</p>
             
-            <h4>Bis zu 99 GB – für einen fairen Preis</h4>
+            <h4>Bis zu 104 GB – für einen fairen Preis</h4>
             
             <p>Wenn man bedenkt, dass andere Anbieter für solches Datenvolumen dreistellige Summen verlangen, wird schnell klar: fraenk ist mit seinem Modell eine kleine Revolution auf dem deutschen Markt. Für 10 € im Monat im besten Netz so viel Datenvolumen zu haben, ist eine echte Seltenheit – und gerade durch fraenk for friends wird der Tarif erst richtig spannend.</p>
             
@@ -515,7 +515,7 @@ Sitemap: ${url.origin}/sitemap.xml
   </main>
 
   <footer class="wrap" style="padding:24px 16px">
-    <div style="margin-bottom:8px">✓ Telekom Netz &nbsp; ✓ 19 GB mit Gutscheincode &nbsp; ✓ fraenk for friends Aktion &nbsp; ✓ Günstig telefonieren</div>
+    <div style="margin-bottom:8px">✓ Telekom Netz &nbsp; ✓ 24 GB mit Gutscheincode &nbsp; ✓ fraenk for friends Aktion &nbsp; ✓ Günstig telefonieren</div>
     <div style="opacity:.7">© 2025 – fraenk Info (privat). Nicht offiziell verbunden mit der Telekom/fraenk.</div>
   </footer>
 </body>
